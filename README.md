@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nishita4098/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nishita4098/DSA/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/nishita4098/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/nishita4098/DSA/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nishita4098/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/nishita4098/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nishita4098/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
