@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nishita4098/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/nishita4098/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/nishita4098/DSA/tree/master/0078-subsets) |
+| [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nishita4098/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nishita4098/DSA/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/nishita4098/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/nishita4098/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nishita4098/DSA/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nishita4098/DSA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nishita4098/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nishita4098/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/nishita4098/DSA/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nishita4098/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishita4098/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nishita4098/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nishita4098/DSA/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
