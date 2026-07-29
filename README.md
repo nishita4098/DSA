@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nishita4098/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nishita4098/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nishita4098/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nishita4098/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nishita4098/DSA/tree/master/0242-valid-anagram) |
 ## Trie
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nishita4098/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishita4098/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nishita4098/DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/nishita4098/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
