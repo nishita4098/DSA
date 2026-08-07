@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishita4098/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nishita4098/DSA/tree/master/0242-valid-anagram) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/nishita4098/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nishita4098/DSA/tree/master/0078-subsets) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishita4098/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishita4098/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
