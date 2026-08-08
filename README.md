@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishita4098/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nishita4098/DSA/tree/master/0242-valid-anagram) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nishita4098/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nishita4098/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nishita4098/DSA/tree/master/0141-linked-list-cycle) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
