@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nishita4098/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/nishita4098/DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nishita4098/DSA/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nishita4098/DSA/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishita4098/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -174,16 +177,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -205,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
