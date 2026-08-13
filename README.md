@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishita4098/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishita4098/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishita4098/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nishita4098/DSA/tree/master/3731-find-missing-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishita4098/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nishita4098/DSA/tree/master/0242-valid-anagram) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishita4098/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nishita4098/DSA/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishita4098/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishita4098/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
