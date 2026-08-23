@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishita4098/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nishita4098/DSA/tree/master/0242-valid-anagram) |
+| [1927-sum-game](https://github.com/nishita4098/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishita4098/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishita4098/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/nishita4098/DSA/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/nishita4098/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/nishita4098/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nishita4098/DSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishita4098/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nishita4098/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nishita4098/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/nishita4098/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nishita4098/DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishita4098/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishita4098/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/nishita4098/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nishita4098/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nishita4098/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/nishita4098/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nishita4098/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
