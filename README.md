@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishita4098/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nishita4098/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/nishita4098/DSA/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/nishita4098/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/nishita4098/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nishita4098/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/nishita4098/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nishita4098/DSA/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/nishita4098/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nishita4098/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
